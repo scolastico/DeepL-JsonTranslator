@@ -4,7 +4,7 @@ Currently there is only one command available: ``file``
 
 File
 ----
-The command "file" currently has four arguments, one of which is optional.
+The command ``file`` currently has four arguments, one of which is optional.
 To be precise, the command consists of these blocks:
 
 .. code-block:: none
