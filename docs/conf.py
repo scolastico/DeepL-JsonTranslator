@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Example'
+project = 'DeepL - Json Translator'
 copyright = '2021, Joschua Becker EDV'
 author = 'Joschua Becker'
 

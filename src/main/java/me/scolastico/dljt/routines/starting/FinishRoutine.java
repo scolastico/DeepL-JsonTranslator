@@ -1,4 +1,4 @@
-package me.scolastico.example.routines.starting;
+package me.scolastico.dljt.routines.starting;
 
 import java.util.HashMap;
 import me.scolastico.tools.console.ConsoleLoadingAnimation;

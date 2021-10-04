@@ -22,10 +22,10 @@ on:
 env:
   GENERATE_JAVADOC: false
   CI_JAVADOC: false
-  CI_DOCS: false
-  USERNAME: scolastico-dev
-  REPO: s.Default
-  JAR_NAME: example-jar-with-dependencies.jar
+  CI_DOCS: true
+  USERNAME: scolastico
+  REPO: DeepL-JsonTranslator
+  JAR_NAME: dljt-jar-with-dependencies.jar
 
 jobs:
   prepare:
