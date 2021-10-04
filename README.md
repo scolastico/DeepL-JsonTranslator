@@ -1,9 +1,9 @@
 # DeepL Json Translator
-[![badge](https://img.shields.io/github/license/scolastico-dev/s.Default)](https://github.com/scolastico/s.Default/blob/main/LICENSE)
-[![badge](https://img.shields.io/github/languages/code-size/scolastico-dev/s.Default)](#)
-[![badge](https://img.shields.io/github/issues/scolastico-dev/s.Default)](https://github.com/scolastico/s.Default/issues)
-[![badge](https://img.shields.io/github/v/tag/scolastico-dev/s.Default?label=version)](https://github.com/scolastico/s.Default/releases)
-[![badge](https://github.com/scolastico-dev/s.Default/actions/workflows/main.yml/badge.svg)](https://github.com/scolastico/s.Default/actions)
+[![badge](https://img.shields.io/github/license/scolastico/DeepL-JsonTranslator)](https://github.com/scolastico/DeepL-JsonTranslator/blob/main/LICENSE)
+[![badge](https://img.shields.io/github/languages/code-size/scolastico/DeepL-JsonTranslator)](#)
+[![badge](https://img.shields.io/github/issues/scolastico/DeepL-JsonTranslator)](https://github.com/scolastico/DeepL-JsonTranslator/issues)
+[![badge](https://img.shields.io/github/v/tag/scolastico/DeepL-JsonTranslator?label=version)](https://github.com/scolastico/DeepL-JsonTranslator/releases)
+[![badge](https://github.com/scolastico/DeepL-JsonTranslator/actions/workflows/main.yml/badge.svg)](https://github.com/scolastico/DeepL-JsonTranslator/actions)
 
 ## About
 With the DeepL Json Translator you can easily translate json files via the DeepL API. Useful to translate language files, for example.
