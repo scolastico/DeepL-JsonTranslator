@@ -23,6 +23,7 @@ env:
   GENERATE_JAVADOC: false
   CI_JAVADOC: false
   CI_DOCS: true
+  CODE_QL_ANALYZE: true
   USERNAME: scolastico
   REPO: DeepL-JsonTranslator
   JAR_NAME: dljt-jar-with-dependencies.jar
